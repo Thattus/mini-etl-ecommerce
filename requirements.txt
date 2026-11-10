@@ -1,0 +1,5 @@
+pyspark
+pandas<3
+pymysql
+sqlalchemy
+python-dotenv
