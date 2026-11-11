@@ -1,5 +1,6 @@
 pyspark
 pandas<3
 pymysql
+cryptography
 sqlalchemy
 python-dotenv

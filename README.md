@@ -190,8 +190,8 @@ _Pendiente: se completará con ejemplos de salidas y consultas._
 ## Roadmap
 
 - [x] Entorno: WSL2, JDK 17, venv, PySpark
-- [ ] Conexión WSL → MySQL de Windows
-- [ ] Datasets de ejemplo (`orders`, `customers`, `products`)
+- [x] Conexión WSL → MySQL de Windows
+- [x] Datasets de ejemplo (`orders`, `customers`, `products`)
 - [ ] Tablas y consultas en MySQL (joins, GROUP BY, window functions)
 - [ ] Job PySpark (calidad, transformaciones, agregaciones)
 - [ ] Carga de métricas a MySQL
